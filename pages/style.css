@@ -1,0 +1,12 @@
+img {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    background-color: #c9ec9b;
+    width: 90vw;
+    max-width: 1220px;
+    margin: 0 auto;
+}
